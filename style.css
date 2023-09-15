@@ -1,0 +1,14 @@
+.icon-container {
+    display: flex;
+    align-items: center;
+}
+
+.material-icons {
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+span {
+    text-decoration: none; 
+    color: #000;
+}
